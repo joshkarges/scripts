@@ -1,0 +1,9 @@
+{
+  "name": "starcraft",
+  "packageManager": "yarn@3.3.1",
+  "type": "module",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "uuid": "^9.0.0"
+  }
+}
